@@ -1,0 +1,6 @@
+.vscode/
+__pycache__/
+figures.csv
+chromedriver-win64/
+firefoxdriver-win64/
+.pytest_cache/
