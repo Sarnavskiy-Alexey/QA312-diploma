@@ -1,0 +1,32 @@
+ERROR    root:test_02_jump_to_brands.py:69 https://www.automationexercise.com/brand_products/(6)
+POLO is not equal for <selenium.webdriver.remote.webelement.WebElement (session="a09b717bdcf5ad59f70b841215b41ffc", element="f.9612506F4B55650FBD60E68D8FEED2AB.d.4930825DA84DAABE1D08B262DED9BB68.e.4")>!
+ERROR    root:test_02_jump_to_brands.py:69 https://www.automationexercise.com/brand_products/(5)
+H&M is not equal for <selenium.webdriver.remote.webelement.WebElement (session="a09b717bdcf5ad59f70b841215b41ffc", element="f.9612506F4B55650FBD60E68D8FEED2AB.d.4930825DA84DAABE1D08B262DED9BB68.e.59")>!
+ERROR    root:test_02_jump_to_brands.py:69 https://www.automationexercise.com/brand_products/(5)
+MADAME is not equal for <selenium.webdriver.remote.webelement.WebElement (session="a09b717bdcf5ad59f70b841215b41ffc", element="f.9612506F4B55650FBD60E68D8FEED2AB.d.4930825DA84DAABE1D08B262DED9BB68.e.60")>!
+ERROR    root:test_02_jump_to_brands.py:69 https://www.automationexercise.com/brand_products/(3)
+MAST & HARBOUR is not equal for <selenium.webdriver.remote.webelement.WebElement (session="a09b717bdcf5ad59f70b841215b41ffc", element="f.9612506F4B55650FBD60E68D8FEED2AB.d.4930825DA84DAABE1D08B262DED9BB68.e.61")>!
+ERROR    root:test_02_jump_to_brands.py:69 https://www.automationexercise.com/brand_products/(4)
+BABYHUG is not equal for <selenium.webdriver.remote.webelement.WebElement (session="a09b717bdcf5ad59f70b841215b41ffc", element="f.9612506F4B55650FBD60E68D8FEED2AB.d.4930825DA84DAABE1D08B262DED9BB68.e.62")>!
+ERROR    root:test_02_jump_to_brands.py:69 https://www.automationexercise.com/brand_products/(3)
+ALLEN SOLLY JUNIOR is not equal for <selenium.webdriver.remote.webelement.WebElement (session="a09b717bdcf5ad59f70b841215b41ffc", element="f.9612506F4B55650FBD60E68D8FEED2AB.d.4930825DA84DAABE1D08B262DED9BB68.e.63")>!
+ERROR    root:test_02_jump_to_brands.py:69 https://www.automationexercise.com/brand_products/(3)
+KOOKIE KIDS is not equal for <selenium.webdriver.remote.webelement.WebElement (session="a09b717bdcf5ad59f70b841215b41ffc", element="f.9612506F4B55650FBD60E68D8FEED2AB.d.4930825DA84DAABE1D08B262DED9BB68.e.64")>!
+ERROR    root:test_02_jump_to_brands.py:69 https://www.automationexercise.com/brand_products/(5)
+BIBA is not equal for <selenium.webdriver.remote.webelement.WebElement (session="a09b717bdcf5ad59f70b841215b41ffc", element="f.9612506F4B55650FBD60E68D8FEED2AB.d.4930825DA84DAABE1D08B262DED9BB68.e.65")>!
+ERROR    root:test_02_jump_to_brands.py:69 https://www.automationexercise.com/brand_products/(6)
+POLO is not equal for <selenium.webdriver.remote.webelement.WebElement (session="a09b717bdcf5ad59f70b841215b41ffc", element="f.9612506F4B55650FBD60E68D8FEED2AB.d.A8A9F777A2D80346CE12BAC916B7FAEA.e.107")>!
+ERROR    root:test_02_jump_to_brands.py:69 https://www.automationexercise.com/brand_products/(5)
+H&M is not equal for <selenium.webdriver.remote.webelement.WebElement (session="a09b717bdcf5ad59f70b841215b41ffc", element="f.9612506F4B55650FBD60E68D8FEED2AB.d.A8A9F777A2D80346CE12BAC916B7FAEA.e.108")>!
+ERROR    root:test_02_jump_to_brands.py:69 https://www.automationexercise.com/brand_products/(5)
+MADAME is not equal for <selenium.webdriver.remote.webelement.WebElement (session="a09b717bdcf5ad59f70b841215b41ffc", element="f.9612506F4B55650FBD60E68D8FEED2AB.d.A8A9F777A2D80346CE12BAC916B7FAEA.e.109")>!
+ERROR    root:test_02_jump_to_brands.py:69 https://www.automationexercise.com/brand_products/(3)
+MAST & HARBOUR is not equal for <selenium.webdriver.remote.webelement.WebElement (session="a09b717bdcf5ad59f70b841215b41ffc", element="f.9612506F4B55650FBD60E68D8FEED2AB.d.A8A9F777A2D80346CE12BAC916B7FAEA.e.110")>!
+ERROR    root:test_02_jump_to_brands.py:69 https://www.automationexercise.com/brand_products/(4)
+BABYHUG is not equal for <selenium.webdriver.remote.webelement.WebElement (session="a09b717bdcf5ad59f70b841215b41ffc", element="f.9612506F4B55650FBD60E68D8FEED2AB.d.A8A9F777A2D80346CE12BAC916B7FAEA.e.111")>!
+ERROR    root:test_02_jump_to_brands.py:69 https://www.automationexercise.com/brand_products/(3)
+ALLEN SOLLY JUNIOR is not equal for <selenium.webdriver.remote.webelement.WebElement (session="a09b717bdcf5ad59f70b841215b41ffc", element="f.9612506F4B55650FBD60E68D8FEED2AB.d.A8A9F777A2D80346CE12BAC916B7FAEA.e.112")>!
+ERROR    root:test_02_jump_to_brands.py:69 https://www.automationexercise.com/brand_products/(3)
+KOOKIE KIDS is not equal for <selenium.webdriver.remote.webelement.WebElement (session="a09b717bdcf5ad59f70b841215b41ffc", element="f.9612506F4B55650FBD60E68D8FEED2AB.d.A8A9F777A2D80346CE12BAC916B7FAEA.e.113")>!
+ERROR    root:test_02_jump_to_brands.py:69 https://www.automationexercise.com/brand_products/(5)
+BIBA is not equal for <selenium.webdriver.remote.webelement.WebElement (session="a09b717bdcf5ad59f70b841215b41ffc", element="f.9612506F4B55650FBD60E68D8FEED2AB.d.A8A9F777A2D80346CE12BAC916B7FAEA.e.114")>!
