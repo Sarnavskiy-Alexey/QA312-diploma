@@ -1,17 +1,10 @@
 from selenium import webdriver
 from selenium.webdriver.common.by import By
-<<<<<<< HEAD
-=======
-from selenium.webdriver.common.keys import Keys
->>>>>>> 3b843103fd673c3a5a2f58109be7e18a7a956ad1
 from selenium.webdriver.common.action_chains import ActionChains
 from selenium.webdriver import chrome, edge, firefox
 import pytest
 import logging
-<<<<<<< HEAD
 import time
-=======
->>>>>>> 3b843103fd673c3a5a2f58109be7e18a7a956ad1
 
 
 GL_ARGUMENTS = {
@@ -20,10 +13,6 @@ GL_ARGUMENTS = {
     'url': 'https://www.automationexercise.com/'
 }
 
-<<<<<<< HEAD
-
-=======
->>>>>>> 3b843103fd673c3a5a2f58109be7e18a7a956ad1
 GL_CONST_REFERENCES = {
     'Home': GL_ARGUMENTS['url'] + '',
     'Products': GL_ARGUMENTS['url'] + 'products',
@@ -79,7 +68,6 @@ def check_navigation_menu(browser_data: webdriver.Chrome | webdriver.Edge | webd
         
         browser_data.get(GL_CONST_REFERENCES[key])
         if 'Automation Exercise' not in browser_data.title:
-<<<<<<< HEAD
             logging.error(f"{browser_data.current_url} - 'Automation Exercise' is not found!")
         else:
             navigation_menu = browser_data.find_element(By.CLASS_NAME, 'navbar-nav')
@@ -119,33 +107,3 @@ def test_01_navigation_menu_firefox(browser_data_firefox, caplog):
     with open('source/auto_tests/tests/firefox/test_01.log', mode='wt') as f:
         for line in caplog.text:
             f.write(line)
-=======
-            logging.error(f"{GL_ARGUMENTS['url']} - 'Automation Exercise' is not found!")
-        
-        navigation_menu = browser_data.find_element(By.CLASS_NAME, 'navbar-nav')
-        navigation_menu = navigation_menu.find_elements(By.TAG_NAME, 'li')
-        for btn in navigation_menu:
-            reference = btn.find_element(By.TAG_NAME, 'a')
-            btn_name = btn.text.replace('\ue8f8', '').lstrip()
-            
-            assert btn_name in GL_CONST_REFERENCES.keys(), 'Название кнопки не соответствует заявленному'
-            assert reference.get_attribute('href') == GL_CONST_REFERENCES[btn_name]
-
-
-def test_01_navigation_menu_chrome(browser_data_chrome, caplog):
-    caplog.set_level(logging.INFO)
-    check_navigation_menu(browser_data_chrome)
-    assert 'is not found' not in caplog.text, 'Страница не найдена!'
-
-
-def test_01_navigation_menu_edge(browser_data_edge, caplog):
-    caplog.set_level(logging.INFO)
-    check_navigation_menu(browser_data_edge)
-    assert 'is not found' not in caplog.text, 'Страница не найдена!'
-
-
-def test_01_navigation_menu_firefox(browser_data_firefox, caplog):
-    caplog.set_level(logging.INFO)
-    check_navigation_menu(browser_data_firefox)
-    assert 'is not found' not in caplog.text, 'Страница не найдена!'
->>>>>>> 3b843103fd673c3a5a2f58109be7e18a7a956ad1
