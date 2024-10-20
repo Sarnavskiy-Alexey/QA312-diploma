@@ -1,0 +1,2 @@
+ERROR    root:test_01_navigation_menu.py:72 https://www.automationexercise.com/test_cases - 'Automation Exercise' is not found!
+ERROR    root:test_01_navigation_menu.py:72 https://www.automationexercise.com/api_list - 'Automation Exercise' is not found!
