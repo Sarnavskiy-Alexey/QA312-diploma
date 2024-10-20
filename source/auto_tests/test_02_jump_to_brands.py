@@ -53,14 +53,14 @@ def browser_data_firefox():
     browser.close()
 
 
-def check_navigation_menu(browser_data: webdriver.Chrome | webdriver.Edge | webdriver.Firefox):
+def check_brand_menu(browser_data: webdriver.Chrome | webdriver.Edge | webdriver.Firefox):
     global GL_CONST_REFERENCES, GL_ARGUMENTS
 
     for key in GL_CONST_REFERENCES:
         browser_data.get(GL_CONST_REFERENCES[key])
-        navigation_menu = browser_data.find_element(By.CLASS_NAME, 'brands_products')
-        navigation_menu = navigation_menu.find_elements(By.TAG_NAME, 'li')
-        for btn in navigation_menu:
+        brand_menu = browser_data.find_element(By.CLASS_NAME, 'brands_products')
+        brand_menu = brand_menu.find_elements(By.TAG_NAME, 'li')
+        for btn in brand_menu:
             reference = btn.find_element(By.TAG_NAME, 'a')
             btn_name = reference.text
             checkable_reference = GL_ARGUMENTS['url'] + 'brand_products/' + btn_name
@@ -69,28 +69,28 @@ def check_navigation_menu(browser_data: webdriver.Chrome | webdriver.Edge | webd
                 logging.error(f"{checkable_reference} is not equal for {reference}!")
 
 
-def test_02_navigation_menu_chrome(browser_data_chrome, caplog):
+def test_02_brand_menu_chrome(browser_data_chrome, caplog):
     time.sleep(2)
     caplog.set_level(logging.INFO)
-    check_navigation_menu(browser_data_chrome)
+    check_brand_menu(browser_data_chrome)
     with open('source/auto_tests/tests/chrome/test_02.log', mode='wt') as f:
         for line in caplog.text:
             f.write(line)
 
 
-def test_02_navigation_menu_edge(browser_data_edge, caplog):
+def test_02_brand_menu_edge(browser_data_edge, caplog):
     time.sleep(2)
     caplog.set_level(logging.INFO)
-    check_navigation_menu(browser_data_edge)
+    check_brand_menu(browser_data_edge)
     with open('source/auto_tests/tests/edge/test_02.log', mode='wt') as f:
         for line in caplog.text:
             f.write(line)
 
 
-def test_02_navigation_menu_firefox(browser_data_firefox, caplog):
+def test_02_brand_menu_firefox(browser_data_firefox, caplog):
     time.sleep(2)
     caplog.set_level(logging.INFO)
-    check_navigation_menu(browser_data_firefox)
+    check_brand_menu(browser_data_firefox)
     with open('source/auto_tests/tests/firefox/test_02.log', mode='wt') as f:
         for line in caplog.text:
             f.write(line)

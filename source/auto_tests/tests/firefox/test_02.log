@@ -1,32 +1,32 @@
 ERROR    root:test_02_jump_to_brands.py:69 https://www.automationexercise.com/brand_products/(6)
-POLO is not equal for <selenium.webdriver.remote.webelement.WebElement (session="17218ac4-a18e-4b0c-9829-2bdda38ced7c", element="d8eeaaec-6f34-4050-974b-00d3a37a9dc4")>!
+POLO is not equal for <selenium.webdriver.remote.webelement.WebElement (session="0c22578a-4de4-4212-9352-a61242039f67", element="2dbcb970-e407-4aa1-aec9-ff982e8393b6")>!
 ERROR    root:test_02_jump_to_brands.py:69 https://www.automationexercise.com/brand_products/(5)
-H&M is not equal for <selenium.webdriver.remote.webelement.WebElement (session="17218ac4-a18e-4b0c-9829-2bdda38ced7c", element="eef60f87-a93f-4e2b-a8de-b8a4e6eb7453")>!
+H&M is not equal for <selenium.webdriver.remote.webelement.WebElement (session="0c22578a-4de4-4212-9352-a61242039f67", element="fa48b449-3777-4641-b78b-ff75477015e9")>!
 ERROR    root:test_02_jump_to_brands.py:69 https://www.automationexercise.com/brand_products/(5)
-MADAME is not equal for <selenium.webdriver.remote.webelement.WebElement (session="17218ac4-a18e-4b0c-9829-2bdda38ced7c", element="97e4d386-9dcf-4f80-9475-0705bd75a898")>!
+MADAME is not equal for <selenium.webdriver.remote.webelement.WebElement (session="0c22578a-4de4-4212-9352-a61242039f67", element="2693bdcc-49bc-4d77-a2f4-4593e2ce05b1")>!
 ERROR    root:test_02_jump_to_brands.py:69 https://www.automationexercise.com/brand_products/(3)
-MAST & HARBOUR is not equal for <selenium.webdriver.remote.webelement.WebElement (session="17218ac4-a18e-4b0c-9829-2bdda38ced7c", element="03385b70-92f6-4a5d-8d70-f43a3601086f")>!
+MAST & HARBOUR is not equal for <selenium.webdriver.remote.webelement.WebElement (session="0c22578a-4de4-4212-9352-a61242039f67", element="9fcca38a-704b-407b-b5ab-7847b77662c8")>!
 ERROR    root:test_02_jump_to_brands.py:69 https://www.automationexercise.com/brand_products/(4)
-BABYHUG is not equal for <selenium.webdriver.remote.webelement.WebElement (session="17218ac4-a18e-4b0c-9829-2bdda38ced7c", element="9b4723f6-834e-4178-a24a-582ffa2e36d5")>!
+BABYHUG is not equal for <selenium.webdriver.remote.webelement.WebElement (session="0c22578a-4de4-4212-9352-a61242039f67", element="0666405b-b87f-474e-b8ad-0d91103bd3ae")>!
 ERROR    root:test_02_jump_to_brands.py:69 https://www.automationexercise.com/brand_products/(3)
-ALLEN SOLLY JUNIOR is not equal for <selenium.webdriver.remote.webelement.WebElement (session="17218ac4-a18e-4b0c-9829-2bdda38ced7c", element="0485258d-bc3f-4798-970b-d3f173c7e1f1")>!
+ALLEN SOLLY JUNIOR is not equal for <selenium.webdriver.remote.webelement.WebElement (session="0c22578a-4de4-4212-9352-a61242039f67", element="dda77fb9-b9b6-4734-8832-840182aa6172")>!
 ERROR    root:test_02_jump_to_brands.py:69 https://www.automationexercise.com/brand_products/(3)
-KOOKIE KIDS is not equal for <selenium.webdriver.remote.webelement.WebElement (session="17218ac4-a18e-4b0c-9829-2bdda38ced7c", element="87ebda87-8a0a-4bf4-aae1-80480449ff6f")>!
+KOOKIE KIDS is not equal for <selenium.webdriver.remote.webelement.WebElement (session="0c22578a-4de4-4212-9352-a61242039f67", element="2cb954ac-098f-4bde-a7fd-698b536e3e7e")>!
 ERROR    root:test_02_jump_to_brands.py:69 https://www.automationexercise.com/brand_products/(5)
-BIBA is not equal for <selenium.webdriver.remote.webelement.WebElement (session="17218ac4-a18e-4b0c-9829-2bdda38ced7c", element="d711a677-9111-4fed-9130-903543fc22ed")>!
+BIBA is not equal for <selenium.webdriver.remote.webelement.WebElement (session="0c22578a-4de4-4212-9352-a61242039f67", element="acf9cdd6-8023-4441-94b3-7d11b6f1696a")>!
 ERROR    root:test_02_jump_to_brands.py:69 https://www.automationexercise.com/brand_products/(6)
-POLO is not equal for <selenium.webdriver.remote.webelement.WebElement (session="17218ac4-a18e-4b0c-9829-2bdda38ced7c", element="7eac82b4-aa30-49df-a6e0-3791e540a3a7")>!
+POLO is not equal for <selenium.webdriver.remote.webelement.WebElement (session="0c22578a-4de4-4212-9352-a61242039f67", element="367eb988-0a0c-473f-9fa2-901abf0d25c4")>!
 ERROR    root:test_02_jump_to_brands.py:69 https://www.automationexercise.com/brand_products/(5)
-H&M is not equal for <selenium.webdriver.remote.webelement.WebElement (session="17218ac4-a18e-4b0c-9829-2bdda38ced7c", element="b51e79d8-68dd-4c42-9a64-d3ce79e48bb4")>!
+H&M is not equal for <selenium.webdriver.remote.webelement.WebElement (session="0c22578a-4de4-4212-9352-a61242039f67", element="f375745d-a419-401e-8eca-68fad741735f")>!
 ERROR    root:test_02_jump_to_brands.py:69 https://www.automationexercise.com/brand_products/(5)
-MADAME is not equal for <selenium.webdriver.remote.webelement.WebElement (session="17218ac4-a18e-4b0c-9829-2bdda38ced7c", element="e25dda2f-6491-43ca-85c1-81b07da1ba34")>!
+MADAME is not equal for <selenium.webdriver.remote.webelement.WebElement (session="0c22578a-4de4-4212-9352-a61242039f67", element="76e59a18-9788-4f82-9298-e420aefcf67f")>!
 ERROR    root:test_02_jump_to_brands.py:69 https://www.automationexercise.com/brand_products/(3)
-MAST & HARBOUR is not equal for <selenium.webdriver.remote.webelement.WebElement (session="17218ac4-a18e-4b0c-9829-2bdda38ced7c", element="9aab3496-c4cc-4ea0-a506-a28f1f36d676")>!
+MAST & HARBOUR is not equal for <selenium.webdriver.remote.webelement.WebElement (session="0c22578a-4de4-4212-9352-a61242039f67", element="d0a5628c-1359-4df4-b15d-2fc8b973aa24")>!
 ERROR    root:test_02_jump_to_brands.py:69 https://www.automationexercise.com/brand_products/(4)
-BABYHUG is not equal for <selenium.webdriver.remote.webelement.WebElement (session="17218ac4-a18e-4b0c-9829-2bdda38ced7c", element="7af38a76-3b33-4bb1-83ca-40761f48de91")>!
+BABYHUG is not equal for <selenium.webdriver.remote.webelement.WebElement (session="0c22578a-4de4-4212-9352-a61242039f67", element="3a367018-71e6-406d-923a-412b0c1e5811")>!
 ERROR    root:test_02_jump_to_brands.py:69 https://www.automationexercise.com/brand_products/(3)
-ALLEN SOLLY JUNIOR is not equal for <selenium.webdriver.remote.webelement.WebElement (session="17218ac4-a18e-4b0c-9829-2bdda38ced7c", element="36ff8b01-1d32-4ae8-8d5a-5d27afe6a78d")>!
+ALLEN SOLLY JUNIOR is not equal for <selenium.webdriver.remote.webelement.WebElement (session="0c22578a-4de4-4212-9352-a61242039f67", element="fd3a1f6d-ae7a-4975-a15a-c87d5c4eeed5")>!
 ERROR    root:test_02_jump_to_brands.py:69 https://www.automationexercise.com/brand_products/(3)
-KOOKIE KIDS is not equal for <selenium.webdriver.remote.webelement.WebElement (session="17218ac4-a18e-4b0c-9829-2bdda38ced7c", element="a4896d4c-4bde-4be4-a5bb-342525d0bfe4")>!
+KOOKIE KIDS is not equal for <selenium.webdriver.remote.webelement.WebElement (session="0c22578a-4de4-4212-9352-a61242039f67", element="123b931c-aa34-4c95-a84f-a423de89b29b")>!
 ERROR    root:test_02_jump_to_brands.py:69 https://www.automationexercise.com/brand_products/(5)
-BIBA is not equal for <selenium.webdriver.remote.webelement.WebElement (session="17218ac4-a18e-4b0c-9829-2bdda38ced7c", element="1f742b6f-0b62-44c6-add5-5ee95a952585")>!
+BIBA is not equal for <selenium.webdriver.remote.webelement.WebElement (session="0c22578a-4de4-4212-9352-a61242039f67", element="cd7ccfa9-aed3-4f6c-9f47-824903b2f8e9")>!
