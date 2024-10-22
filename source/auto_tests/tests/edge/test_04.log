@@ -1,0 +1,4 @@
+ERROR    root:test_04_check_autorization.py:152 "Logout" button is absent
+ERROR    root:test_04_check_autorization.py:154 "Delete Account" button is absent
+ERROR    root:test_04_check_autorization.py:156 "Logged in as User" button is absent
+ERROR    root:test_04_check_autorization.py:183 https://www.automationexercise.com/login - 'Your email or password is incorrect!' paragraph is found!
