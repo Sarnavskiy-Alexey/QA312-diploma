@@ -1,0 +1,4 @@
+ERROR    root:test_03_check_registration.py:152 "Logout" button is absent
+ERROR    root:test_03_check_registration.py:154 "Delete Account" button is absent
+ERROR    root:test_03_check_registration.py:156 "Logged in as User" button is absent
+ERROR    root:test_03_check_registration.py:172 https://www.automationexercise.com/delete_account - 'Account Deleted' is not found!
