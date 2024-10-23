@@ -1,0 +1,3 @@
+ERROR    root:test_07_check_product_card.py:103 https://www.automationexercise.com/product_details/1 - thanks for review were not given
+ERROR    root:test_07_check_product_card.py:118 https://www.automationexercise.com/product_details/1 - up arrow does not work
+ERROR    root:test_07_check_product_card.py:126 https://www.automationexercise.com/product_details/1 - down arrow does not work
